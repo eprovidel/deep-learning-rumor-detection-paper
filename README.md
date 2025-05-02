@@ -19,7 +19,7 @@ In this paper we use the Twitter16 dataset as published by Wei Gao et al. in
 The folder contains both Twitter15 and Twitter16 datasets. As specified by the
 original authors: *"Note that constrained by the terms of Twitter service, we
 cannot contain the content of the rest of the tweets. Data users can obtain the
-sepcifics based on the provided tweet IDs and uids by their own."*
+specifics based on the provided tweet IDs and uids by their own."*
 
 ## Code
 
